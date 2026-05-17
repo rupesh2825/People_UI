@@ -1,0 +1,15 @@
+.Login {
+    width: 550px;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.main{
+    width: 300px;
+    height:100%;
+    margin-right:auto;
+    padding: 20px;
+}
